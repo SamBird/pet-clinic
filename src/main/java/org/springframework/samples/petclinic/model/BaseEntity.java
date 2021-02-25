@@ -36,7 +36,7 @@ public class BaseEntity implements Serializable {
     private Integer id;
 
     public Integer getId() {
-        return id;
+        return idd;
     }
 
     public void setId(Integer id) {
